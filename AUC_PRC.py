@@ -222,7 +222,7 @@ def plot_average_prc():
     plt.legend(loc="lower left")
     plt.savefig('./images/PRC.png')
     plt.show()
-    print('PRC曲线已绘制完成')
+    
 
 
 # 绘制模型平均ROC曲线
